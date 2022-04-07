@@ -30,7 +30,7 @@ Skills :zap:
  
 ##
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelchierici&theme=blue-green" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchierici&theme=blue-green&layout=compact" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchierici&theme=blue-green&layout=compact" />
  
 
 
