@@ -2,7 +2,7 @@ Olá, me chamo Michael Chierici, Desenvolvedor Front-end. 👋
 
 Aluno do Ignite da Rocketseat :rocket:
 ##
-Atualmente trabalho com C# e SQL Server, faço projetos com React, Redux, ContextAPI, integração e consumo em API. ✨ 
+Atualmente trabalho como desenvolvedor Front-end, usando tecnologias como React, Typescript, Redux, entre outras ✨
 
 ##
 Onde me encontrar? :mag:
