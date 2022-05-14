@@ -17,7 +17,7 @@
 
 #
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchierici&theme=blue-green&show_icons=true&locale=en" alt="michaelchierici" /> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelchierici&theme=blue-green" alt="michaelchierici" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchierici&theme=blue-green&show_icons=true&locale=en" alt="michaelchierici" width="380"/> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelchierici&theme=blue-green" alt="michaelchierici" width="380" /></p>
   
   
   
