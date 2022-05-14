@@ -2,7 +2,7 @@ Olá, me chamo Michael Chierici, Desenvolvedor Front-end. 👋
 
 Aluno do Ignite da Rocketseat :rocket:
 ##
-Atualmente trabalho como desenvolvedor Front-end! Usando tecnologias como React, Typescript, Redux, Redux-Saga entre outras ✨
+Atualmente trabalho como desenvolvedor Front-end, usando tecnologias como React, Typescript, Redux, entre outras ✨
 
 ##
 Onde me encontrar? :mag:
@@ -22,7 +22,6 @@ Skills :zap:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
