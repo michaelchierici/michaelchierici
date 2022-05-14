@@ -2,7 +2,7 @@ Olá, me chamo Michael Chierici, Desenvolvedor Front-end. 👋
 
 Aluno do Ignite da Rocketseat :rocket:
 ##
-Atualmente trabalho como desenvolvedor Front-end, usando tecnologias como React, Typescript, Redux, entre outras ✨
+Atualmente trabalho como desenvolvedor Front-end! Usando tecnologias como React, Typescript, Redux, Redux-Saga entre outras ✨
 
 ##
 Onde me encontrar? :mag:
