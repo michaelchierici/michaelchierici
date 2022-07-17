@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/78627567/168427335-c142e66d-f7d3-43a8-9d24-8858ef890723.svg" width="400"  > </img>
 <h3 align="left">Michael Chierici, Front-end Developer</h3> 
-<h4 align="left">At moment working as Front-end Developer with React, Typescript, Redux, Redux-saga, SASS and more! </h4>
+<h4 align="left">At moment working as Front-end Developer with React, React Native, Typescript, Redux, Redux-saga, SASS and more! </h4>
 
 ##
 <h3 align="left">Find me:</h3>
